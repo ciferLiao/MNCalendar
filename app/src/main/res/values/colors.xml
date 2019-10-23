@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#B81B22</color>
+    <color name="c_F7F7F7">#F7F7F7</color>
+    <color name="c_BDBDBD">#BDBDBD</color>
+    <color name="c_E02020">#E02020</color>
+    <color name="c_888">#888888</color>
+    <color name="c_E7E7EC">#E7E7EC</color>
+
+    <color name="colorTitle">#f8f8f8</color>
+    <color name="colorPrimaryLight">#330079FE</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#ffffff</color>
+    <color name="text_blue">#3498DB</color>
+    <color name="text_gray">#666666</color>
+    <color name="text_gray_1">#dddddd</color>
+    <color name="default_avar_icon_color">#BBBBBB</color>
+    <color name="login_text_color">#E9E9E9</color>
+    <color name="login_btn_color">#3498DB</color>
+    <color name="login_sep_color">#33FFFFFF</color>
+    <color name="divide_color">#f2f2f2</color>
+    <color name="text_black">#333333</color>
+    <color name="progressbar_color">#1ABC9C</color>
+    <color name="color_fff5e9">#fff5e9</color>
+    <color name="color_e7a33b">#e7a33b</color>
+    <color name="color_eeeeee">#EEEEEE</color>
+    <color name="divider_color">@color/divide_color
+    </color>
+    <color name="main_color">#222222</color>
+    <color name="c_666">#666666</color>
+    <color name="c_line">#dddddd</color>
+    <color name="c_333">#333333</color>
+    <color name="rank_gold">#EE4844</color>
+    <color name="color_f5f6f8">#F5F6F8</color>
+    <color name="red">#FB4A46</color>
+    <color name="rank_silver">#3498db</color>
+    <color name="rank_copper">#1ABC9C</color>
+    <color name="page_bg_color">#f2f2f2</color>
+    <color name="light_blue">#d6eaf8</color>
+
+    <color name="color_f5f5f5">#f5f5f5</color>
+    <color name="color_666666">#666666</color>
+    <color name="color_333333">#333333</color>
+    <color name="color_212121">#212121</color>
+    <color name="color_757575">#757575</color>
+    <color name="green">#1ABC9C</color>
+    <color name="color_373737">#373737</color>
+    <color name="color_bbb">#bbbbbb</color>
+    <color name="color_999">#999999</color>
+    <color name="color_f19ec2">#f19ec2</color>
+    <color name="color_ee4844">#ee4844</color>
+    <color name="color_3498db">#3498db</color>
+    <color name="color_1abc9c">#1abc9c</color>
+    <color name="color_f8f8f8">#f8f8f8</color>
+    <color name="color_e3e3e3">#e3e3e3</color>
+    <color name="color_2485e0">#2485e0</color>
+    <color name="color_ddd">#dddddd</color>
+    <color name="color_f2f2f2">#f2f2f2</color>
+    <color name="color_f5f7fa">#f5f7fa</color>
+    <color name="color_dadada">#dadada</color>
+    <color name="color_B5B5B5">#B5B5B5</color>
+    <color name="color_5e8ac6">#5e8ac6</color>
+    <color name="color_fbd7a1">#fbd7a1</color>
+    <color name="color_101d37">#101d37</color>
+    <color name="color_fb4945">#fb4945</color>
+    <color name="color_e1e1e1e">#e1e1e1</color>
+    <color name="color_222222">#222222</color>
+    <color name="c_A2CCE8">#A2CCE8</color>
+    <color name="c_ff3498db">#ff3498db</color>
+    <color name="c_fff5f6f8">#fff5f6f8</color>
+    <color name="c_aaaaaa">#AAAAAA</color>
+    <color name="c_cccccc">#CCCCCC</color>
+
+    <color name="c_F7DE8A">#F7DE8A</color>
+    <color name="c_29A6DA">#29A6DA</color>
+    <color name="c_47C9AF">#47C9AF</color>
+    <color name="c_F08EB9">#F08EB9</color>
+    <color name="c_FDE7E7">#FDE7E7</color>
+    <color name="c_CB6363">#CB6363</color>
+    <color name="c_D8A648">#D8A648</color>
+    <color name="c_4FACB2">#4FACB2</color>
+    <color name="c_CB6767">#CB6767</color>
+</resources>
